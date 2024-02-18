@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johan253
-- 👀 I’m interested in understanding how programs work
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: https://dot.cards/johannn
 
