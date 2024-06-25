@@ -27,7 +27,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
+## 😎 Github stats
 
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=johan253&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=algolia&bg_color=0,000000,000000&layout=compact&border_radius=8"
@@ -35,7 +35,7 @@
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johan253&count_private=true&theme=algolia&bg_color=0,000000,000000&layout=compact&border_radius=8&langs_count=20"/>
 </p>
 
-## Contact me
+## 📲 Contact me
 <a href="https://johanhernandez.com">
 <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-4B2E83?style=for-the-badge&logo=user&logoColor=white" />
 </a>
