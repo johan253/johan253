@@ -40,6 +40,6 @@
 <img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-4B2E83?style=for-the-badge&logo=user&logoColor=white" />
 </a>
 <br/>
-<a href="mailto:marcosvaas@gmail.com-">
+<a href="mailto:johan.hdzz@outlook.com-">
 <img alt="eMail" src="https://img.shields.io/badge/johan.hdzz@outlook.com-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
